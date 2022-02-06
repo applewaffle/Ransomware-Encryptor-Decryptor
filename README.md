@@ -1,4 +1,9 @@
 # Ransomware-Encryptor-Decryptor
+
+  LINK TO CODE SEGMENT IN VIDEO:
+  https://youtu.be/atL1WmmMJJw?t=2030
+
+
 Powershell Ransomware
 ###These scripts are provided as-is. Nathan Studebaker is not responsible for the use of these scripts. These scripts are created for demonstration purposes only and should not be used in a production environment. I provide no support or liablity for the use of these scripts.###
 
